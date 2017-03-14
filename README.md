@@ -1,3 +1,9 @@
+Tips:
+1.winwods使用git bash 运行bin/hubot
+2.但是自己在安装的时候发现./bin/hubot一直无法执行，后来发现需要redis支持，采取官网yo hubot的安装方法，开启redis服务，然后执行就可以了
+
+
+
 # hp
 
 hp is a chat bot built on the [Hubot][hubot] framework. It was
